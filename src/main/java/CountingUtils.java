@@ -8,6 +8,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class CountingUtils {
+    //************************ skaiciuoti valiutos kurso pokyciu duotam periode
     public static List<Alteration> getAlteration(List<FxRate> rateList, List<CurrencyCode> valiutos, LocalDate notbefor) {
         List<Alteration> alterations = new ArrayList<>();
         for (CurrencyCode val : valiutos) {
