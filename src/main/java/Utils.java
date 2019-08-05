@@ -9,11 +9,12 @@ import org.json.JSONObject;
 import org.json.XML;
 
 import java.io.*;
+
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
-public class utils {
+public class Utils {
     public static int PRETTY_PRINT_INDENT_FACTOR = 4;
 
     static String toJson(File file) throws IOException {
@@ -35,7 +36,7 @@ public class utils {
         try {
             Path file = filename.toPath();
 
-            String xmlstring = utils.toJson( filename );
+            String xmlstring = Utils.toJson( filename );
             JSONObject xmlJSONObj = XML.toJSONObject( xmlstring );
             String jsonPrettyPrintString = xmlJSONObj.toString( PRETTY_PRINT_INDENT_FACTOR );
 

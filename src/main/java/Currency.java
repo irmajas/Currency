@@ -13,16 +13,16 @@ public class Currency {
     public static void main(String[] args) {
 
         File filename = new File( "C:\\Users\\irmaj\\Desktop\\Currency\\src\\main\\resources\\data.xml" );
-        String json = utils.getRatesfromFiles( filename );
-        List<FxRate> rates = utils.parseJson( json );
+        String json = Utils.getRatesfromFiles( filename );
+        List<FxRate> rates = Utils.parseJson( json );
         File valiutosname = new File( "C:\\Users\\irmaj\\Desktop\\Currency\\src\\main\\resources\\valiutos.xml" );
-        String jsonvaliutos = utils.getRatesfromFiles( valiutosname );
+        String jsonvaliutos = Utils.getRatesfromFiles( valiutosname );
 
-        List<CurrencyCode> valiutos = utils.parseJsonValiutos( jsonvaliutos );
+        List<CurrencyCode> valiutos = Utils.parseJsonValiutos( jsonvaliutos );
         LocalDate startdate = LocalDate.parse( "2019-05-06" );
 
         List<Alteration> alterations = CountingUtils.getAlteration( rates, valiutos, startdate );
-        utils.printAlterations( alterations );
+        Utils.printAlterations( alterations );
         GetResponse.get_response();
     }
 }
