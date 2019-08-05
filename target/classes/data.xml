@@ -1,0 +1,2582 @@
+<FxRates xmlns="http://www.lb.lt/WebServices/FxRates">
+<FxRate>
+    <Tp>EU</Tp>
+    <Dt>2019-05-10</Dt>
+    <CcyAmt>
+        <Ccy>EUR</Ccy>
+        <Amt>1</Amt>
+    </CcyAmt>
+    <CcyAmt>
+        <Ccy>AUD</Ccy>
+        <Amt>1.6059</Amt>
+    </CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>BGN</Ccy>
+    <Amt>1.9558</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>BRL</Ccy>
+    <Amt>4.4405</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CAD</Ccy>
+    <Amt>1.5132</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CHF</Ccy>
+    <Amt>1.1378</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CNY</Ccy>
+    <Amt>7.6628</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CZK</Ccy>
+    <Amt>25.7320</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>DKK</Ccy>
+    <Amt>7.4658</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>GBP</Ccy>
+    <Amt>0.8625</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>HKD</Ccy>
+    <Amt>8.8135</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>HRK</Ccy>
+    <Amt>7.4090</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>HUF</Ccy>
+    <Amt>323.52</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>IDR</Ccy>
+    <Amt>16177.38</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ILS</Ccy>
+    <Amt>4.0004</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>INR</Ccy>
+    <Amt>78.6075</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ISK</Ccy>
+    <Amt>137</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>JPY</Ccy>
+    <Amt>123.25</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>KRW</Ccy>
+    <Amt>1325.32</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>MYR</Ccy>
+    <Amt>4.6781</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>MXN</Ccy>
+    <Amt>21.5589</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>NOK</Ccy>
+    <Amt>9.8193</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>NZD</Ccy>
+    <Amt>1.7025</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>PHP</Ccy>
+    <Amt>58.7220</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>PLN</Ccy>
+    <Amt>4.2960</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>RON</Ccy>
+    <Amt>4.7598</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>RUB</Ccy>
+    <Amt>73.3493</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>SEK</Ccy>
+    <Amt>10.8108</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>SGD</Ccy>
+    <Amt>1.5305</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>THB</Ccy>
+    <Amt>35.4640</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>TRY</Ccy>
+    <Amt>6.8837</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>USD</Ccy>
+    <Amt>1.1230</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-10</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ZAR</Ccy>
+    <Amt>15.9762</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>AUD</Ccy>
+    <Amt>1.6046</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>BGN</Ccy>
+    <Amt>1.9558</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>BRL</Ccy>
+    <Amt>4.4368</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CAD</Ccy>
+    <Amt>1.5093</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CHF</Ccy>
+    <Amt>1.1390</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CNY</Ccy>
+    <Amt>7.6374</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CZK</Ccy>
+    <Amt>25.7180</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>DKK</Ccy>
+    <Amt>7.4659</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>GBP</Ccy>
+    <Amt>0.8612</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>HKD</Ccy>
+    <Amt>8.7844</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>HRK</Ccy>
+    <Amt>7.4085</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>HUF</Ccy>
+    <Amt>323.33</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>IDR</Ccy>
+    <Amt>16062.37</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ILS</Ccy>
+    <Amt>3.9973</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>INR</Ccy>
+    <Amt>78.3435</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ISK</Ccy>
+    <Amt>137.20</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>JPY</Ccy>
+    <Amt>122.91</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>KRW</Ccy>
+    <Amt>1324.18</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>MYR</Ccy>
+    <Amt>4.6480</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>MXN</Ccy>
+    <Amt>21.4412</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>NOK</Ccy>
+    <Amt>9.8068</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>NZD</Ccy>
+    <Amt>1.7015</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>PHP</Ccy>
+    <Amt>58.4770</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>PLN</Ccy>
+    <Amt>4.2934</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>RON</Ccy>
+    <Amt>4.7615</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>RUB</Ccy>
+    <Amt>73.0572</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>SEK</Ccy>
+    <Amt>10.7973</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>SGD</Ccy>
+    <Amt>1.5266</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>THB</Ccy>
+    <Amt>35.5770</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>TRY</Ccy>
+    <Amt>6.9725</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>USD</Ccy>
+    <Amt>1.1193</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-09</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ZAR</Ccy>
+    <Amt>16.0432</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>AUD</Ccy>
+    <Amt>1.5987</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>BGN</Ccy>
+    <Amt>1.9558</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>BRL</Ccy>
+    <Amt>4.4293</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CAD</Ccy>
+    <Amt>1.5074</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CHF</Ccy>
+    <Amt>1.1407</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CNY</Ccy>
+    <Amt>7.5950</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CZK</Ccy>
+    <Amt>25.7270</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>DKK</Ccy>
+    <Amt>7.4657</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>GBP</Ccy>
+    <Amt>0.860950</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>HKD</Ccy>
+    <Amt>8.7922</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>HRK</Ccy>
+    <Amt>7.4093</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>HUF</Ccy>
+    <Amt>324.18</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>IDR</Ccy>
+    <Amt>16013.26</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ILS</Ccy>
+    <Amt>4.0104</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>INR</Ccy>
+    <Amt>78.0805</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ISK</Ccy>
+    <Amt>137</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>JPY</Ccy>
+    <Amt>123.31</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>KRW</Ccy>
+    <Amt>1313.49</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>MYR</Ccy>
+    <Amt>4.6471</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>MXN</Ccy>
+    <Amt>21.3707</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>NOK</Ccy>
+    <Amt>9.8285</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>NZD</Ccy>
+    <Amt>1.6993</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>PHP</Ccy>
+    <Amt>58.4370</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>PLN</Ccy>
+    <Amt>4.2912</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>RON</Ccy>
+    <Amt>4.7598</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>RUB</Ccy>
+    <Amt>73.0256</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>SEK</Ccy>
+    <Amt>10.7494</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>SGD</Ccy>
+    <Amt>1.5257</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>THB</Ccy>
+    <Amt>35.6220</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>TRY</Ccy>
+    <Amt>6.9272</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>USD</Ccy>
+    <Amt>1.1202</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-08</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ZAR</Ccy>
+    <Amt>16.0691</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>AUD</Ccy>
+    <Amt>1.5944</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>BGN</Ccy>
+    <Amt>1.9558</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>BRL</Ccy>
+    <Amt>4.4383</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CAD</Ccy>
+    <Amt>1.5065</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CHF</Ccy>
+    <Amt>1.1415</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CNY</Ccy>
+    <Amt>7.5710</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CZK</Ccy>
+    <Amt>25.7310</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>DKK</Ccy>
+    <Amt>7.4657</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>GBP</Ccy>
+    <Amt>0.856450</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>HKD</Ccy>
+    <Amt>8.7781</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>HRK</Ccy>
+    <Amt>7.41</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>HUF</Ccy>
+    <Amt>324.30</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>IDR</Ccy>
+    <Amt>15972.18</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ILS</Ccy>
+    <Amt>4.0137</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>INR</Ccy>
+    <Amt>77.64</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ISK</Ccy>
+    <Amt>136.60</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>JPY</Ccy>
+    <Amt>123.73</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>KRW</Ccy>
+    <Amt>1309.83</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>MYR</Ccy>
+    <Amt>4.6401</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>MXN</Ccy>
+    <Amt>21.2691</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>NOK</Ccy>
+    <Amt>9.7605</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>NZD</Ccy>
+    <Amt>1.6957</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>PHP</Ccy>
+    <Amt>58.1080</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>PLN</Ccy>
+    <Amt>4.2862</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>RON</Ccy>
+    <Amt>4.7580</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>RUB</Ccy>
+    <Amt>72.7907</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>SEK</Ccy>
+    <Amt>10.7145</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>SGD</Ccy>
+    <Amt>1.5242</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>THB</Ccy>
+    <Amt>35.68</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>TRY</Ccy>
+    <Amt>6.8751</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>USD</Ccy>
+    <Amt>1.1185</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-07</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ZAR</Ccy>
+    <Amt>16.1219</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>AUD</Ccy>
+    <Amt>1.6021</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>BGN</Ccy>
+    <Amt>1.9558</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>BRL</Ccy>
+    <Amt>4.4468</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CAD</Ccy>
+    <Amt>1.5095</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CHF</Ccy>
+    <Amt>1.1403</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CNY</Ccy>
+    <Amt>7.5771</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CZK</Ccy>
+    <Amt>25.7150</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>DKK</Ccy>
+    <Amt>7.4662</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>GBP</Ccy>
+    <Amt>0.8547</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>HKD</Ccy>
+    <Amt>8.7871</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>HRK</Ccy>
+    <Amt>7.4124</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>HUF</Ccy>
+    <Amt>323.43</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>IDR</Ccy>
+    <Amt>16006.17</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ILS</Ccy>
+    <Amt>4.0206</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>INR</Ccy>
+    <Amt>77.7325</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ISK</Ccy>
+    <Amt>136.20</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>JPY</Ccy>
+    <Amt>124.13</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>KRW</Ccy>
+    <Amt>1311.18</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>MYR</Ccy>
+    <Amt>4.6448</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>MXN</Ccy>
+    <Amt>21.3243</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>NOK</Ccy>
+    <Amt>9.7905</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>NZD</Ccy>
+    <Amt>1.6936</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>PHP</Ccy>
+    <Amt>58.1870</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>PLN</Ccy>
+    <Amt>4.2832</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>RON</Ccy>
+    <Amt>4.7555</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>RUB</Ccy>
+    <Amt>72.9750</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>SEK</Ccy>
+    <Amt>10.7258</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>SGD</Ccy>
+    <Amt>1.5266</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>THB</Ccy>
+    <Amt>35.73</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>TRY</Ccy>
+    <Amt>6.7429</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>USD</Ccy>
+    <Amt>1.1199</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-05-06</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ZAR</Ccy>
+    <Amt>16.2549</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>AED</Ccy>
+    <Amt>4.095030</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>AFN</Ccy>
+    <Amt>86.4605</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ALL</Ccy>
+    <Amt>123.307940</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>AMD</Ccy>
+    <Amt>536.824350</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ARS</Ccy>
+    <Amt>51.166110</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>AZN</Ccy>
+    <Amt>1.891430</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>BAM</Ccy>
+    <Amt>1.958540</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>BDT</Ccy>
+    <Amt>94.147730</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>BHD</Ccy>
+    <Amt>0.420280</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>BYN</Ccy>
+    <Amt>2.349430</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>BOB</Ccy>
+    <Amt>7.703960</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>CLP</Ccy>
+    <Amt>752.752610</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>COP</Ccy>
+    <Amt>3600.067850</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>DJF</Ccy>
+    <Amt>198.480070</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>DZD</Ccy>
+    <Amt>133.598470</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>EGP</Ccy>
+    <Amt>19.149970</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>ETB</Ccy>
+    <Amt>31.863840</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>GEL</Ccy>
+    <Amt>3.012460</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>GNF</Ccy>
+    <Amt>10184.054050</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>YER</Ccy>
+    <Amt>278.334790</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>IQD</Ccy>
+    <Amt>1330.3154</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>IRR</Ccy>
+    <Amt>46825.80</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>JOD</Ccy>
+    <Amt>0.790460</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>KES</Ccy>
+    <Amt>112.995120</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>KGS</Ccy>
+    <Amt>77.847890</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>KWD</Ccy>
+    <Amt>0.339420</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>KZT</Ccy>
+    <Amt>425.780310</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>LBP</Ccy>
+    <Amt>1681.2692</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>LYD</Ccy>
+    <Amt>1.5583</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>LKR</Ccy>
+    <Amt>195.999420</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>MAD</Ccy>
+    <Amt>10.791120</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>MDL</Ccy>
+    <Amt>19.860830</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>MGA</Ccy>
+    <Amt>4032.693640</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>MKD</Ccy>
+    <Amt>61.539690</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>MNT</Ccy>
+    <Amt>2944.4509</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>MZN</Ccy>
+    <Amt>71.632330</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>PAB</Ccy>
+    <Amt>1.1149</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>PEN</Ccy>
+    <Amt>3.710940</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>PKR</Ccy>
+    <Amt>157.942310</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>QAR</Ccy>
+    <Amt>4.059630</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>RSD</Ccy>
+    <Amt>117.961990</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>SAR</Ccy>
+    <Amt>4.1811</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>SYP</Ccy>
+    <Amt>574.507970</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>TJS</Ccy>
+    <Amt>10.521870</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>TMT</Ccy>
+    <Amt>3.896580</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>TND</Ccy>
+    <Amt>3.356570</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>TWD</Ccy>
+    <Amt>34.459330</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>TZS</Ccy>
+    <Amt>2569.8445</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>UAH</Ccy>
+    <Amt>29.444510</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>UYU</Ccy>
+    <Amt>38.636860</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>UZS</Ccy>
+    <Amt>9410.781710</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>VES</Ccy>
+    <Amt>5792.750260</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>VND</Ccy>
+    <Amt>25954.8720</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>XAF</Ccy>
+    <Amt>691.427530</Amt>
+</CcyAmt>
+</FxRate>
+<FxRate>
+<Tp>EU</Tp>
+<Dt>2019-04-29</Dt>
+<CcyAmt>
+    <Ccy>EUR</Ccy>
+    <Amt>1</Amt>
+</CcyAmt>
+<CcyAmt>
+    <Ccy>XOF</Ccy>
+    <Amt>656.341630</Amt>
+</CcyAmt>
+</FxRate>
+        </FxRates>
