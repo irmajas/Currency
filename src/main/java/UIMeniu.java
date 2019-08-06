@@ -13,15 +13,12 @@ public class UIMeniu {
 
     public static void letsStart(Path where) {
         //*****************
-        Path whereData= where.resolve("data.xml"  );
-        File filename = new File( String.valueOf( whereData ) );
+        Path whereData = where.resolve( "data.xml" );
+                File filename = new File( String.valueOf( whereData ) );
         String json = Utils.getRatesfromFiles( filename );
         List<FxRate> rates = Utils.parseJson( json );
-        Path whereValiut= where.resolve("valiutos.xml3" +
-                ""  );
-        File valiutosname = new File( String.valueOf( whereValiut ) );
-        String jsonvaliutos = Utils.getRatesfromFiles( valiutosname );
-
+        String xmlvaliutos = GetResponse.getResponse();
+        String jsonvaliutos=Utils.xmlToJson( xmlvaliutos );
         List<CurrencyCode> valiutos = Utils.parseJsonValiutos( jsonvaliutos );
         LocalDate startdate = LocalDate.parse( "2019-05-06" );
         LocalDate enddate = LocalDate.parse( "2019-05-10" );
