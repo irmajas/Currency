@@ -3,6 +3,7 @@ import models.CurrencyCode;
 import models.FxRate;
 
 import java.io.File;
+import java.nio.file.Path;
 import java.time.LocalDate;
 import java.util.List;
 import java.util.Scanner;
@@ -10,12 +11,15 @@ import java.util.stream.Collectors;
 
 public class UIMeniu {
 
-    public static void letsStart() {
+    public static void letsStart(Path where) {
         //*****************
-        File filename = new File( "C:\\Users\\irmaj\\Desktop\\Currency\\src\\main\\resources\\data.xml" );
+        Path whereData= where.resolve("data.xml"  );
+        File filename = new File( String.valueOf( whereData ) );
         String json = Utils.getRatesfromFiles( filename );
         List<FxRate> rates = Utils.parseJson( json );
-        File valiutosname = new File( "C:\\Users\\irmaj\\Desktop\\Currency\\src\\main\\resources\\valiutos.xml" );
+        Path whereValiut= where.resolve("valiutos.xml3" +
+                ""  );
+        File valiutosname = new File( String.valueOf( whereValiut ) );
         String jsonvaliutos = Utils.getRatesfromFiles( valiutosname );
 
         List<CurrencyCode> valiutos = Utils.parseJsonValiutos( jsonvaliutos );
