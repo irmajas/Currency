@@ -14,10 +14,9 @@ public class Currency {
 
     public static void main(String[] args) {
 
-        Path fromWhere = Paths.get(args[0]);
 
 
-        UIMeniu.letsStart(fromWhere);
+        UIMeniu.letsStart();
     }
 }
 
