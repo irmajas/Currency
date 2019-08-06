@@ -34,12 +34,24 @@ public class UIMeniu {
         }
         String ratesStartUrl = ratesurl + "&dt=" + startdate;
         String ratesEndUrl = ratesurl + "&dt=" + enddate;
-        String xmlrates = GetResponse.getResponse( ratesStartUrl );
+        String ratesperiodUrl = "http://www.lb.lt/webservices/fxrates/FxRates.asmx/getFxRatesForCurrency";
+        if (startdate.isAfter( STARTDATE )) {
+            ratesperiodUrl = ratesperiodUrl + "?tp=EU&ccy=&";
+        } else {
+            ratesperiodUrl = ratesperiodUrl + "?tp=LT&ccy=&";
+        }
+        ratesperiodUrl = ratesperiodUrl + "dtFrom=" + startdate;
+        ratesperiodUrl = ratesperiodUrl + "&dtTo=" + enddate;
+        System.out.println(ratesperiodUrl);
+//        String xmlrates = GetResponse.getResponse( ratesStartUrl );
+//        String jsonrates = Utils.xmlToJson( xmlrates );
+//        List<FxRate> rates = Utils.parseJson( jsonrates );
+//        xmlrates = GetResponse.getResponse( ratesEndUrl );
+//        jsonrates = Utils.xmlToJson( xmlrates );
+//        rates.addAll( Utils.parseJson( jsonrates ) );
+        String xmlrates = GetResponse.getResponse( ratesperiodUrl );
         String jsonrates = Utils.xmlToJson( xmlrates );
         List<FxRate> rates = Utils.parseJson( jsonrates );
-        xmlrates = GetResponse.getResponse( ratesEndUrl );
-        jsonrates = Utils.xmlToJson( xmlrates );
-        rates.addAll( Utils.parseJson( jsonrates ) );
         List<Alteration> alterations = CountingUtils.getAlteration( rates, valiutos, startdate );
         //***********************
         boolean iki = true;
