@@ -13,7 +13,7 @@ public class UIMeniu {
     final static LocalDate STARTDATE = LocalDate.parse( "2014-09-30" );
     final static LocalDate DATEEU = LocalDate.parse( "2015-01-01" );
 
-    public static void letsStart(Path where) {
+    public static void letsStart() {
 
         String valiutosurl = "http://www.lb.lt/webservices/fxrates/FxRates.asmx/getCurrencyList";
         String xmlvaliutos = GetResponse.getResponse( valiutosurl );
