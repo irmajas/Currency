@@ -10,19 +10,38 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 
 public class UIMeniu {
+    final static LocalDate STARTDATE = LocalDate.parse( "2014-09-30" );
+    final static LocalDate DATEEU = LocalDate.parse( "2015-01-01" );
 
     public static void letsStart(Path where) {
-        //*****************
-        Path whereData = where.resolve( "data.xml" );
-                File filename = new File( String.valueOf( whereData ) );
-        String json = Utils.getRatesfromFiles( filename );
-        List<FxRate> rates = Utils.parseJson( json );
-        String xmlvaliutos = GetResponse.getResponse();
-        String jsonvaliutos=Utils.xmlToJson( xmlvaliutos );
-        List<CurrencyCode> valiutos = Utils.parseJsonValiutos( jsonvaliutos );
-        LocalDate startdate = LocalDate.parse( "2019-05-06" );
-        LocalDate enddate = LocalDate.parse( "2019-05-10" );
 
+        String valiutosurl = "http://www.lb.lt/webservices/fxrates/FxRates.asmx/getCurrencyList";
+        String xmlvaliutos = GetResponse.getResponse( valiutosurl );
+        String jsonvaliutos = Utils.xmlToJson( xmlvaliutos );
+        List<CurrencyCode> valiutos = Utils.parseJsonValiutos( jsonvaliutos );
+
+        LocalDate startdate = getDate( "periodo pradzios data" );
+        LocalDate enddate = getDate( "periodo pabaigos data" );
+        if (startdate.isAfter( enddate )){
+            LocalDate tarp=startdate;
+            startdate =enddate;
+            enddate=tarp;
+        }
+        String ratesurl="http://www.lb.lt/webservices/fxrates/FxRates.asmx/getFxRates";
+        if (startdate.isAfter( STARTDATE )){
+            ratesurl=ratesurl+"?tp=EU";
+        }
+        else{
+            ratesurl=ratesurl+"?tp=LT";
+        }
+        String ratesStartUrl=ratesurl+"&dt="+startdate;
+        String ratesEndUrl=ratesurl+"&dt="+enddate;
+        String xmlrates = GetResponse.getResponse( ratesStartUrl );
+        String jsonrates = Utils.xmlToJson( xmlrates );
+        List<FxRate> rates = Utils.parseJson( jsonrates );
+        xmlrates = GetResponse.getResponse( ratesEndUrl );
+        jsonrates = Utils.xmlToJson( xmlrates );
+        rates.addAll(Utils.parseJson( jsonrates ) );
         List<Alteration> alterations = CountingUtils.getAlteration( rates, valiutos, startdate );
         //***********************
         boolean iki = true;
@@ -30,7 +49,7 @@ public class UIMeniu {
         while (iki) {
             int pasirinkimas = mainMeniu();
             switch (pasirinkimas) {
-                //sprendziam testus
+
                 case 1:
                     Utils.printAlterations( alterations );
                     break;
@@ -63,31 +82,14 @@ public class UIMeniu {
                     }
                     break;
                 case 3:
+                    Utils.printAll( rates, valiutos );
+                    LocalDate nuo=startdate;
+                    LocalDate ikikada=enddate;
+                    List<FxRate> ratesbydate = rates.stream()
+                            .filter( rat -> rat.getDt().isEqual( nuo )||rat.getDt().isEqual( ikikada ) ).collect( Collectors.toList() );
+                   ratesbydate.sort( (r1,r2) ->r1.getCurrency().compareTo( r2.getCurrency() ));
+                    Utils.printAll( ratesbydate, valiutos );
 
-
-                    System.out.println( "ivesk data (mmmm-MM-dd):(periodas nuo 2019-05-06 iki 2019-05-10) arba *(VISKAS)" );
-                    while (true) {
-                        String ivesta = sc.next();
-                        if (ivesta.equals( "*" )) {
-                            Utils.printAll( rates, valiutos );
-                            break;
-                        }
-                        String pattern = "([12]\\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01]))";
-
-                        if (ivesta.matches( pattern )) {
-                            LocalDate ivestadata = LocalDate.parse( ivesta );
-                            if (ivestadata.isBefore( startdate ) || ivestadata.isAfter( enddate )) {
-                                System.out.println( "tokiai datai duomenu nera" );
-                            } else {
-                                List<FxRate> ratesbydate = rates.stream()
-                                        .filter( rat -> rat.getDt().isEqual( ivestadata ) ).collect( Collectors.toList() );
-                                Utils.printAll( ratesbydate, valiutos );
-                                break;
-                            }
-                        } else {
-                            System.out.println( "klaidingai nurodyta data. Pakartokite" );
-                        }
-                    }
 
                     break;
                 default:
@@ -115,6 +117,30 @@ public class UIMeniu {
                 return 3;
             default:
                 return 0;
+        }
+
+    }
+
+    static LocalDate getDate(String message) {
+        Scanner sc = new Scanner( System.in );
+
+        System.out.println( "ivesk data (mmmm-MM-dd):(periodas nuo 2019-05-06 iki 2019-05-10) arba *(VISKAS)" );
+        while (true) {
+            String ivesta = sc.next();
+            String pattern = "([12]\\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01]))";
+
+            if (ivesta.matches( pattern )) {
+                LocalDate date = LocalDate.parse( ivesta );
+                if (date.isBefore( STARTDATE ) || date.isAfter( LocalDate.now() )) {
+                    System.out.println( " Lietuvos bankas duomenis teikia nuo 2014-09-30 iki šiandien. pakartokite" );
+                } else {
+                    return date;
+                }
+
+            } else {
+                System.out.println("klaidingas datos formatas. pakartokite");
+            }
+
         }
 
     }

@@ -16,7 +16,7 @@ public class Currency {
 
         Path fromWhere = Paths.get(args[0]);
 
-        GetResponse.getResponse();
+
         UIMeniu.letsStart(fromWhere);
     }
 }

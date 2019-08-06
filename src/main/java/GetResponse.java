@@ -7,11 +7,10 @@ import java.net.URL;
 
 public class GetResponse {
 
-    public static  String getResponse() {
+    public static String getResponse(String url) {
         try {
 
-            String url = "http://www.lb.lt/webservices/fxrates/FxRates.asmx/getCurrencyList";
-            //String url = "https://api.chucknorris.io/jokes/random?category=animal";
+//            String url = "http://www.lb.lt/webservices/fxrates/FxRates.asmx/getCurrencyList";
 
             URL obj = new URL( url );
             HttpURLConnection con = (HttpURLConnection) obj.openConnection();
@@ -28,7 +27,7 @@ public class GetResponse {
                 }
                 in.close();
 //            print in String
-                System.out.println( response.toString() );
+//            System.out.println( response.toString() );
                 return response.toString();
             } else {
                 System.out.println( "Klaidos kodas nuskaitant is  http://www.lb.lt/WebServices/FxRates...--->" + responseCode );
