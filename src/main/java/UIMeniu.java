@@ -17,8 +17,7 @@ public class UIMeniu {
         File filename = new File( String.valueOf( whereData ) );
         String json = Utils.getRatesfromFiles( filename );
         List<FxRate> rates = Utils.parseJson( json );
-        Path whereValiut= where.resolve("valiutos.xml3" +
-                ""  );
+        Path whereValiut= where.resolve("valiutos.xml" );
         File valiutosname = new File( String.valueOf( whereValiut ) );
         String jsonvaliutos = Utils.getRatesfromFiles( valiutosname );
 
