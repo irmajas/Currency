@@ -8,52 +8,12 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import org.json.XML;
 
-import java.io.*;
-
-import java.nio.file.Path;
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.List;
 
 public class Utils {
     public static int PRETTY_PRINT_INDENT_FACTOR = 4;
 
-    //******************* Is nurodyto XML failo nuskaito string
-    static String toJson(File file) throws IOException {
-        Reader fileReader = new FileReader( file );
-        BufferedReader bufReader = new BufferedReader( fileReader );
-        StringBuilder sb = new StringBuilder();
-        String line = bufReader.readLine();
-        while (line != null) {
-            sb.append( line ).append( "\n" );
-            line = bufReader.readLine();
-        }
-        String xml2String = sb.toString();
-
-        return xml2String;
-    }
-
-    //***************** Is xml eilutes gauti json
-    static String getRatesfromFiles(File filename) {
-
-        try {
-            Path file = filename.toPath();
-
-            String xmlstring = Utils.toJson( filename );
-            JSONObject xmlJSONObj = XML.toJSONObject( xmlstring );
-            String jsonPrettyPrintString = xmlJSONObj.toString( PRETTY_PRINT_INDENT_FACTOR );
-
-            return jsonPrettyPrintString;
-        } catch (
-                JSONException je) {
-            System.out.println( je.toString() );
-            return null;
-        } catch (IOException e) {
-            e.printStackTrace();
-            return null;
-        }
-
-    }
 
     //************ Is json eilutes gito kursu List
     static List<FxRate> parseJson(String json) {
@@ -129,6 +89,7 @@ public class Utils {
             if (!printed || !pavad.equals( pavadold )) {
                 System.out.println( pavad );
                 printed = !printed;
+                pavadold = pavad;
             }
             ;
             System.out.println( rate.getDt() + " -- " + rate.getRate() );

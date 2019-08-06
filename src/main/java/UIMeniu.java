@@ -2,9 +2,8 @@ import models.Alteration;
 import models.CurrencyCode;
 import models.FxRate;
 
-import java.io.File;
-import java.nio.file.Path;
 import java.time.LocalDate;
+import java.util.Comparator;
 import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
@@ -13,7 +12,7 @@ public class UIMeniu {
     final static LocalDate STARTDATE = LocalDate.parse( "2014-09-30" );
     final static LocalDate DATEEU = LocalDate.parse( "2015-01-01" );
 
-    public static void letsStart(Path where) {
+    public static void letsStart() {
 
         String valiutosurl = "http://www.lb.lt/webservices/fxrates/FxRates.asmx/getCurrencyList";
         String xmlvaliutos = GetResponse.getResponse( valiutosurl );
@@ -22,26 +21,25 @@ public class UIMeniu {
 
         LocalDate startdate = getDate( "periodo pradzios data" );
         LocalDate enddate = getDate( "periodo pabaigos data" );
-        if (startdate.isAfter( enddate )){
-            LocalDate tarp=startdate;
-            startdate =enddate;
-            enddate=tarp;
+        if (startdate.isAfter( enddate )) {
+            LocalDate tarp = startdate;
+            startdate = enddate;
+            enddate = tarp;
         }
-        String ratesurl="http://www.lb.lt/webservices/fxrates/FxRates.asmx/getFxRates";
-        if (startdate.isAfter( STARTDATE )){
-            ratesurl=ratesurl+"?tp=EU";
+        String ratesurl = "http://www.lb.lt/webservices/fxrates/FxRates.asmx/getFxRates";
+        if (startdate.isAfter( STARTDATE )) {
+            ratesurl = ratesurl + "?tp=EU";
+        } else {
+            ratesurl = ratesurl + "?tp=LT";
         }
-        else{
-            ratesurl=ratesurl+"?tp=LT";
-        }
-        String ratesStartUrl=ratesurl+"&dt="+startdate;
-        String ratesEndUrl=ratesurl+"&dt="+enddate;
+        String ratesStartUrl = ratesurl + "&dt=" + startdate;
+        String ratesEndUrl = ratesurl + "&dt=" + enddate;
         String xmlrates = GetResponse.getResponse( ratesStartUrl );
         String jsonrates = Utils.xmlToJson( xmlrates );
         List<FxRate> rates = Utils.parseJson( jsonrates );
         xmlrates = GetResponse.getResponse( ratesEndUrl );
         jsonrates = Utils.xmlToJson( xmlrates );
-        rates.addAll(Utils.parseJson( jsonrates ) );
+        rates.addAll( Utils.parseJson( jsonrates ) );
         List<Alteration> alterations = CountingUtils.getAlteration( rates, valiutos, startdate );
         //***********************
         boolean iki = true;
@@ -82,12 +80,12 @@ public class UIMeniu {
                     }
                     break;
                 case 3:
-                    Utils.printAll( rates, valiutos );
-                    LocalDate nuo=startdate;
-                    LocalDate ikikada=enddate;
+
+                    LocalDate nuo = startdate;
+                    LocalDate ikikada = enddate;
                     List<FxRate> ratesbydate = rates.stream()
-                            .filter( rat -> rat.getDt().isEqual( nuo )||rat.getDt().isEqual( ikikada ) ).collect( Collectors.toList() );
-                   ratesbydate.sort( (r1,r2) ->r1.getCurrency().compareTo( r2.getCurrency() ));
+                            .filter( rat -> rat.getDt().isEqual( nuo ) || rat.getDt().isEqual( ikikada ) ).collect( Collectors.toList() );
+                    ratesbydate.sort( Comparator.comparing( FxRate::getCurrency ) );
                     Utils.printAll( ratesbydate, valiutos );
 
 
@@ -104,7 +102,7 @@ public class UIMeniu {
         System.out.println( "Ką norite matyti:" );
         System.out.println( "1 - visu valiutu pokycius" );
         System.out.println( "2 - vienos valiutus kursus ir pokycius" );
-        System.out.println( "3 - visu valiutu kursus datai" );
+        System.out.println( "3 - visu valiutu kursus nurodytoms datoms" );
         System.out.println( "bent koks kitas skaičius, jei norite baigti darbą" );
         Scanner sc = new Scanner( System.in );
         String ivesta = sc.next();
@@ -138,7 +136,7 @@ public class UIMeniu {
                 }
 
             } else {
-                System.out.println("klaidingas datos formatas. pakartokite");
+                System.out.println( "klaidingas datos formatas. pakartokite" );
             }
 
         }

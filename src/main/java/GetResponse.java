@@ -10,8 +10,6 @@ public class GetResponse {
     public static String getResponse(String url) {
         try {
 
-//            String url = "http://www.lb.lt/webservices/fxrates/FxRates.asmx/getCurrencyList";
-
             URL obj = new URL( url );
             HttpURLConnection con = (HttpURLConnection) obj.openConnection();
             con.setRequestMethod( "GET" );

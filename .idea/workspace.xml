@@ -6,8 +6,9 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Currency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/GetResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GetResponse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/UIMeniu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UIMeniu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/GetResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GetResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Alteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Alteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Currency.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Currency.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/GetResponse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="658">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="153" column="1" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
+            <state relative-caret-position="1936">
+              <caret line="97" selection-start-line="97" selection-end-line="97" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,7 +49,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/models/FxRate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
+            <state relative-caret-position="198">
               <caret line="9" column="19" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -60,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CountingUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="10" column="79" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
+            <state relative-caret-position="198">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,8 +73,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Currency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="110">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/UIMeniu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1738">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,21 +92,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/UIMeniu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="89" column="93" selection-start-line="89" selection-start-column="93" selection-end-line="89" selection-end-column="93" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/models/Alteration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
+            <state relative-caret-position="22">
               <caret line="14" column="109" selection-start-line="14" selection-start-column="109" selection-end-line="14" selection-end-column="109" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -136,13 +134,13 @@
         <option value="$PROJECT_DIR$/src/main/resources/valiutos.xml" />
         <option value="$PROJECT_DIR$/src/main/java/models/CurrencyCode.java" />
         <option value="$PROJECT_DIR$/src/main/java/models/FxRate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/models/Alteration.java" />
         <option value="$PROJECT_DIR$/src/main/java/utils.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/CountingUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Utils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/GetResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/Alteration.java" />
         <option value="$PROJECT_DIR$/src/main/java/Currency.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GetResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Utils.java" />
         <option value="$PROJECT_DIR$/src/main/java/UIMeniu.java" />
       </list>
     </option>
@@ -288,7 +286,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565070735035" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565072859538" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -370,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565065653235</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Beveik baigtas">
+      <created>1565070798112</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565070798112</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -390,7 +395,7 @@
       <window_info id="Learn" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6147651" visible="true" weight="0.37188873" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6147651" visible="true" weight="0.4216691" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -398,7 +403,7 @@
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.38799414" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3852349" side_tool="true" weight="0.5475842" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.329429" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.045387994" />
       <window_info anchor="bottom" id="Console" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49932885" weight="0.329429" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -456,7 +461,9 @@
     <MESSAGE value="Puikiai veikiantis variantas, kuris nuskaito duomenis is failu." />
     <MESSAGE value="Kelias iki failu katalogo nurodomas kaip programos argumentas" />
     <MESSAGE value="Pakeista: valiutų sąrašas gaunamas iš Lietuvos banko tinklapio." />
-    <option name="LAST_COMMIT_MESSAGE" value="Pakeista: valiutų sąrašas gaunamas iš Lietuvos banko tinklapio." />
+    <MESSAGE value="Beveik baigtas" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/UIMeniu.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/UIMeniu.java" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -524,20 +531,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/models/FxRate.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/GetResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/models/Alteration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="109" selection-start-line="14" selection-start-column="109" selection-end-line="14" selection-end-column="109" />
+        <state relative-caret-position="658">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -546,8 +543,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="153" column="1" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
+        <state relative-caret-position="1936">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/models/FxRate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -556,8 +563,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CountingUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="10" column="79" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
+        <state relative-caret-position="198">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -566,28 +573,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Currency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/GetResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/UIMeniu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="89" column="93" selection-start-line="89" selection-start-column="93" selection-end-line="89" selection-end-column="93" />
+        <state relative-caret-position="1738">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/models/Alteration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="14" column="109" selection-start-line="14" selection-start-column="109" selection-end-line="14" selection-end-column="109" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
