@@ -73,8 +73,12 @@ public class Utils {
 
     //spausdinti valiutu pokycius
     static void printAlterations(List<Alteration> alter) {
+        if (alter.size()>0){
         for (Alteration alt : alter) {
             System.out.println( " " + alt.getName() + " kurso pokytis nuo " + alt.getFirstdate() + " iki " + alt.getLastdate() + " yra" + alt.getAtteration() );
+        }}
+        else{
+            System.out.println("pasirinktam periodui paskaičiuoti pokyčio negalima, nes pateiktą data bankas informacijos neteikia");
         }
     }
 
@@ -88,10 +92,10 @@ public class Utils {
                     map( val -> val.getNameLTU() ).findFirst().get();
             if (!printed || !pavad.equals( pavadold )) {
                 System.out.println( pavad );
-                printed = !printed;
+                printed = true;
                 pavadold = pavad;
             }
-            ;
+
             System.out.println( rate.getDt() + " -- " + rate.getRate() );
         }
     }

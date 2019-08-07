@@ -134,7 +134,7 @@ public class UIMeniu {
     static LocalDate getDate(String message) {
         Scanner sc = new Scanner( System.in );
 
-        System.out.println( "ivesk data (mmmm-MM-dd):(periodas nuo 2019-05-06 iki 2019-05-10) arba *(VISKAS)" );
+        System.out.println( "ivesk data (mmmm-MM-dd):(periodas nuo 2014-09-30 iki dabar)" );
         while (true) {
             String ivesta = sc.next();
             String pattern = "([12]\\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01]))";

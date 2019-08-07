@@ -14,7 +14,7 @@ public class GetResponse {
             HttpURLConnection con = (HttpURLConnection) obj.openConnection();
             con.setRequestMethod( "GET" );
             int responseCode = con.getResponseCode();
-
+            System.out.println(responseCode);
             if (responseCode == HttpURLConnection.HTTP_OK) {
                 BufferedReader in = new BufferedReader(
                         new InputStreamReader( con.getInputStream() ) );
